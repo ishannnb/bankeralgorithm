@@ -1,8 +1,8 @@
 // Ishan Bhandari
 // Date: 11/29/2023
 
-#ifndef BANKER_ALGO
-#define BANKER_ALGO
+#ifndef BANKER_ALGORITHM
+#define BANKER_ALGORITHM
 
 #include <iostream>
 #include <vector>
